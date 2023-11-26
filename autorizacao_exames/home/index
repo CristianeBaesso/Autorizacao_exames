@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+
+
+<html lang="es">
+<head>
+
+  <link rel="stylesheet" type="text/css" href="../css/home.css"> 
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+ 
+  <title>Home</title>
+  
+
+</head>
+<body>
+
+  <header>  
+
+    <h1>Autorização de Exames</h1> 
+
+</header>
+
+<nav>
+      
+    <a href="http://localhost/autorizacao_exames/autorizacao_exames/adicionar.php">Nova Autorização de Exame</a>
+    
+    <a href="http://localhost/autorizacao_exames/autorizacao_exames/listar.php">Autorizações de Exame</a>
+
+    <a href="http://localhost/autorizacao_exames/pacientes/listar.php">Pacientes</a>
+
+    <a href="http://localhost/autorizacao_exames/laboratorios/listar.php">Laboratórios</a>    
+  
+    <a href="http://localhost/autorizacao_exames/exames/listar.php">Exames</a>  
+  
+</nav>
+
+<section>
+    
+    <p><img src="https://logospng.org/download/sus-sistema-Unico-de-saude/sus-sistema-unico-de-saude-256.png" alt="sus"></p>
+  
+</section>
+
+  <footer>
+    
+    <p>Secretaria Municipal de Saúde de Serafina Corrêa</p> 
+    <p>Rua Costa e Silva, 703, Centro, Serafina Corrêa/RS</p>   
+    <p>Telefone: 54-3444-1136</p>  
+  
+</footer>
+
+</body>
+
+</html>
